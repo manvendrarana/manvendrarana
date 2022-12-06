@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manvendrarana&theme=radical" alt="manvendrarana" /></p>
 -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manvendrarana&show_icons=true&locale=en&theme=radical" alt="manvendrarana" /></p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=manvendrarana&show_icons=true&theme=midnight-purple" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=manvendrarana&show_icons=true&theme=chartreuse-dark" />
 <a href="https://manvendrarana.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendrarana&layout=compact&theme=midnight-purple&exclude_repo=github-readme-stats,Asteroids-Unity,Unity-workshop-brick-breaker&hide=cmake" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendrarana&layout=compact&theme=chartreuse-dark&exclude_repo=github-readme-stats,Asteroids-Unity,Unity-workshop-brick-breaker&hide=cmake" />
 </a>
