@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manvendrarana&show_icons=true&locale=en&theme=radical" alt="manvendrarana" /></p>
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=manvendrarana&show_icons=true&theme=midnight-purple" />
+<a href="https://manvendrarana.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendrarana&layout=compact&theme=midnight-purple&exclude_repo=github-readme-stats,Asteroids-Unity,Unity-workshop-brick-breaker&hide=cmake" />
+</a>
