@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=manvendrarana&show_icons=true&theme=chartreuse-dark" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=manvendrarana&show_icons=true&theme=chartreuse-dark" />
 <a href="https://manvendrarana.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendrarana&layout=compact&theme=chartreuse-dark&exclude_repo=github-readme-stats,Asteroids-Unity,Unity-workshop-brick-breaker&hide=cmake" />
-</a>
+</a> -->
